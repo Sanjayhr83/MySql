@@ -1,3 +1,6 @@
+In the creation of table first we create parent table after than create child table
+primary key present in present table and foreign key present in child table
+
 To Create a table in database :
   Syntax1:
 
