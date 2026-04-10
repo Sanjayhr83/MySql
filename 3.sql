@@ -1,5 +1,5 @@
 To Create a table in database :
-  Syntax:
+  Syntax1:
 
 CREATE TABLE TABLE_NAME
 (
